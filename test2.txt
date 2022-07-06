@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 nereden nereye güçlü biz
+=======
+inancımızı yitirmedik 
+hala hayattayız
+>>>>>>> new-feature-2
